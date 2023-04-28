@@ -1,0 +1,54 @@
+{
+    "block": {
+        "basicMetalBlocks": {
+            "tier1_machine_block": "",
+            "tier2_casing": "",
+            "tier2_machine_block": "",
+            "tier3_casing": "",
+            "tier3_machine_block": "",
+            "machine_casing_fusion_coil": "",
+            "machine_casing_fusion_glass": "",
+            "machine_casing_fusion_glass_yellow": "",
+            "ev_casing": "",
+            "uhv_casing": "",
+            "uv_casing": "",
+            "mm_casing": "",
+            "protype_casing": "",
+            "high_pressure_casing": "",
+            "factory_fan": ""
+        },
+        "basicWoodBlocks": {
+            "charred_planks": ""
+        },
+        "杂项": {
+            "sheetmetal_cast": "",
+            "bronze_frame": "",
+            "alchemistry_frame": "",
+            "pneumaticcraft_casing": "",
+            "hostile_casing": "",
+            "haunted_casing": "",
+            "tier1_casing": "",
+            "1x_compressed_cobblestone": "",
+            "2x_compressed_cobblestone": "",
+            "3x_compressed_cobblestone": ""
+        }
+    },
+    "fluids": {
+        "gemstone_catalyst_mixture": "",
+        "zephyrean_aerotheum": "",
+        "gelid_cryotheum": "",
+        "tectonic_petrotheum": "",
+        "blazing_pyrotheum": "",
+        "purified_water": "",
+        "liquid_air": "",
+        "hot_air": "",
+        "noble_gasses": "",
+        "liquid_nether_air": "",
+        "liquid_ender_air": "",
+        "liquid_shadows": "",
+        "liquid_smoke": "",
+        "molten_hardened_glass": "",
+        "sludge": "",
+        "molten_carbon": ""
+    }
+}
