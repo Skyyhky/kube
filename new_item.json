@@ -183,10 +183,10 @@
                     ""
                 ]
             },
-            "arcanite": "",
-            "cobalt": "",
+            "arcanite": "奥金",
+            "cobalt": "钴",
             "aluminum": {
-                "title": "",
+                "title": "铝",
                 "allomancy": [
                     "Aluminum is a purifying metal - it removes all metals from your current stock. This may seem useless, but it also removes all potion effects - not a bad trade to remove some Wither or Poison before it kills you",
                     ""
@@ -196,29 +196,29 @@
                     ""
                 ]
             },
-            "mithril": "",
-            "thorium": "",
-            "titanium": "",
-            "rune": "",
-            "uranium": "",
-            "magnesium": "",
-            "netherite_scrap": "",
-            "osmium": "",
-            "platinum": "",
-            "desh": "",
-            "palladium": "",
-            "stellarite": "",
-            "tungsten": "",
-            "orichalcum": "",
-            "ostrum": "",
-            "calorite": "",
-            "vibranium": "",
-            "adamantium": "",
-            "uru": "",
-            "draconium": "",
-            "manganese": "",
+            "mithril": "秘银",
+            "thorium": "钍",
+            "titanium": "钛",
+            "rune": "符文",
+            "uranium": "铀",
+            "magnesium": "镁",
+            "netherite_scrap": "下界合金碎片",
+            "osmium": "锇",
+            "platinum": "铂",
+            "desh": "戴斯",
+            "palladium": "钯",
+            "stellarite": "流星",
+            "tungsten": "钨钢",
+            "orichalcum": "奥利哈钢",
+            "ostrum": "紫金",
+            "calorite": "耐热金属",
+            "vibranium": "振金",
+            "adamantium": "艾德曼合金",
+            "uru": "乌鲁",
+            "draconium": "龙",
+            "manganese": "锰",
             "chromium": {
-                "title": "",
+                "title": "铬",
                 "allomancy": [
                     "Chromium removes all metals from the stock of players you click on, while also removing all potion effects from them",
                     ""
@@ -229,7 +229,7 @@
                 ]
             },
             "cadmium": {
-                "title": "",
+                "title": "镉",
                 "allomancy": [
                     "Cadmium slows down the mobs in the area around you",
                     ""
@@ -239,13 +239,13 @@
                     ""
                 ]
             },
-            "molybdenum": "",
-            "iridium": "",
-            "scandium": "",
-            "vanadium": "",
-            "neodymium": "",
+            "molybdenum": "钼",
+            "iridium": "铱",
+            "scandium": "钪",
+            "vanadium": "钒",
+            "neodymium": "钕",
             "bronze": {
-                "title": "",
+                "title": "青铜",
                 "allomancy": [
                     "Bronze allows you to detect the Allomancy of other players, in much the same way Iron or Steel detects metal or Tin indicates sounds",
                     ""
@@ -255,9 +255,9 @@
                     ""
                 ]
             },
-            "constantan": "",
+            "constantan": "康铜",
             "electrum": {
-                "title": "",
+                "title": "琥珀金",
                 "allomancy": [
                     "Electrum lets you see your \"future\", showing you the location of your current spawn point",
                     ""
@@ -267,9 +267,9 @@
                     ""
                 ]
             },
-            "invar": "",
+            "invar": "因瓦合金",
             "brass": {
-                "title": "",
+                "title": "黄铜",
                 "allomancy": [
                     "Brass allows you to Soothe the emotions of mobs, making them passive, even fearful. Creepers are your buddies!",
                     ""
@@ -279,9 +279,9 @@
                     ""
                 ]
             },
-            "red_alloy": "",
+            "red_alloy": "红色合金",
             "pewter": {
-                "title": "",
+                "title": "白镴",
                 "allomancy": [
                     "Pewter grants increased speed, jump height, damage, and damage resistance to the player. Be careful, though - Any damage incurred while burning pewter is remembered, and if you stop burning it at the wrong time you could end up being killed by all the built up damage.",
                     ""
@@ -291,14 +291,14 @@
                     ""
                 ]
             },
-            "auric_gold": "",
-            "cast_iron": "",
+            "auric_gold": "#####################",
+            "cast_iron": "铸铁",
             "dielectric_alloy": "",
-            "drenched_iron": "",
-            "rose_gold": "",
-            "amethyst_bronze": "",
+            "drenched_iron": "浸润铁",
+            "rose_gold": "玫瑰金",
+            "amethyst_bronze": "紫水晶青铜",
             "steel": {
-                "title": "",
+                "title": "钢",
                 "allomancy": [
                     "Steel allows you to Push on metals. This means moving metal items away from you, or pushing yourself off of metal blocks. This can be used as a sort of rudimentary flight, though it is more falling with style than anything else. Steel also allows you to use the Coin Bag item. If you have gold nuggets in your inventory and are burning steel, you can use this as a ranged weapon similar to the old Beta-edition Bow. Iron nuggets can also be used, causing more damage but far less accurately",
                     ""
@@ -308,9 +308,9 @@
                     ""
                 ]
             },
-            "energetic_alloy": "",
-            "vinteum": "",
-            "hepatizon": "",
+            "energetic_alloy": "充能合金",
+            "vinteum": "温特姆",
+            "hepatizon": "黑色科林斯青铜",
             "duralumin": {
                 "title": "",
                 "allomancy": [
@@ -338,7 +338,7 @@
             "stainless_steel": "不锈钢",
             "manyullyn": "玛玉灵",
             "soulsteel": "魂钢",
-            "titanite": "钛",
+            "titanite": "#####################",
             "swift_alloy": "迅捷合金",
             "aerospace_alloy": "航天合金",
             "chemically_inert_alloy": "化学惰性合金",
@@ -346,7 +346,7 @@
             "enderium": "末影",
             "fireite": "火焰合金",
             "bendalloy": {
-                "title": "",
+                "title": "弯管合金",
                 "allomancy": [
                     "Bendalloy speeds up everything in a bubble around you. Furnaces, crops, and mobs all go faster!",
                     ""
@@ -357,7 +357,7 @@
                 ]
             },
             "nicrosil": {
-                "title": "",
+                "title": "镍铬",
                 "allomancy": [
                     "Nicrosil enhances whatever metal the player you left click on is burning. When you stop enhancing them, they will lose their stock of the currently burning metal.",
                     ""
@@ -370,14 +370,14 @@
             "inconel": "耐热铬铁合金",
             "promethium": "钷",
             "adamantine_alloy": "精金合金",
-            "imortite": "",
-            "potentium": "",
-            "kharaxium": "",
-            "thermogenic": "",
-            "vincyte": "",
-            "densite": "",
-            "jimmium": "",
-            "thermolytic": "",
+            "imortite": "#####################",
+            "potentium": "#####################",
+            "kharaxium": "#####################",
+            "thermogenic": "#####################",
+            "vincyte": "#####################",
+            "densite": "#####################",
+            "jimmium": "#####################",
+            "thermolytic": "#####################",
             "slag": "矿渣",
             "rich_slag": "富集矿渣",
             "end_stone": "末地石",
@@ -385,7 +385,7 @@
             "ancient_wood": "古代木头",
             "redstone": "红石",
             "sulfur": "硫",
-            "lumite": "",
+            "lumite": "#####################",
             "manasteel": "魔力钢",
             "terrasteel": "泰拉钢",
             "elementium": "源质钢",
